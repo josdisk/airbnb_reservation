@@ -11,3 +11,6 @@ Hotel Booking is all generated with __QuickAdmin__ except for some custom code f
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL and login with default credentials __admin@admin.com__ - __password__
+
+## Contribution
+Couple of contributer brought suggestion this is a repushed version. So feel free to do so. And use it as an open source
